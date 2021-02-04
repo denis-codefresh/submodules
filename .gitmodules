@@ -1,0 +1,3 @@
+[submodule "cf-platform-analytics"]
+	path = cf-platform-analytics
+	url = git@github.com:codefresh-io/cf-platform-analytics.git
